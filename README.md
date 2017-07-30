@@ -6,7 +6,9 @@
 
 #GOALS
   ~ System for Emergency Situations to be reported and recorded that bypasses need for a phone call
-  ~ 
+  
+  ~ Create ticket for response using Rapid.io
+  
   ~ Record video immediately while in communication with Emergency Services
   
   ~ Location immediately gained 
@@ -18,4 +20,3 @@ Start Screen
   ~ Get Help / Emergency!
   ~ Be Helpful / I am a First Responder
 
-H
